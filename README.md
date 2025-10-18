@@ -1,6 +1,6 @@
 ## 👋
 
-# Tech Stack
+# Languages and Tools:
 
 ![image](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![image](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
@@ -32,6 +32,10 @@
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kepuvv)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+![](https://komarev.com/ghpvc/?username=kepuvv&color=blue)
 
 <!--
 **kepuvv/kepuvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
