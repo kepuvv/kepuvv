@@ -39,9 +39,12 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=kepuvv&color=blue) [![docker hub](dockerhub_button_icon_96.png)](https://hub.docker.com/u/kepuvv)
+![](https://komarev.com/ghpvc/?username=kepuvv&color=blue) <a href="https://hub.docker.com/u/kepuvv" target="_blank"><img src="dockerhub_button_icon_96.png" alt="Docker Hub" width="110" height="25" style="border: none;"></a>
 
 <!--
+
+[![docker hub](dockerhub_button_icon_96.png)](https://hub.docker.com/u/kepuvv)
+
 **kepuvv/kepuvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
