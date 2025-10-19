@@ -39,7 +39,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=kepuvv&color=blue) [![docker hub](dockerhub_button_icon_151899.png)](https://hub.docker.com/repositories/kepuvv)
+![](https://komarev.com/ghpvc/?username=kepuvv&color=blue) [![docker hub](dockerhub_button_icon_151899.png)](https://hub.docker.com/u/kepuvv)
 
 <!--
 **kepuvv/kepuvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
