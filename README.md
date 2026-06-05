@@ -1,4 +1,5 @@
 #  👋  [kepuvv.github.io](https://kepuvv.github.io)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-kepuvv-blue?logo=docker)](https://hub.docker.com/u/kepuvv)
 
 
 ## Languages and Tools:
@@ -29,5 +30,4 @@
 
 ---
 
-![Profile_Views](https://komarev.com/ghpvc/?username=kepuvv&color=blue) 
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-kepuvv-blue?logo=docker)](https://hub.docker.com/u/kepuvv)
+![Profile_Views](https://komarev.com/ghpvc/?username=kepuvv&color=blue)
