@@ -16,6 +16,7 @@ About: [kepuvv.github.io](https://kepuvv.github.io)
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kepuvv&theme=oldie&title=-PullRequest,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kepuvv&theme=oldie&title=-PullRequest,-Reviews)](https://github.com/ryo-ma/github-profile-trophy) -->
+![trophy](https://trophy.ryglcloud.net/?username=kepuvv&theme=oldie&title=-PullRequest,-Reviews,-Issues)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kepuvv&color=blue)
